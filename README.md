@@ -9,7 +9,7 @@ Repo for DHBenelux 2024 submission "Smoke and mirrors: Tracking the Influence of
    
    1.2. Run the notebook '[0] Parsing the GM letters.ipynb' to parse the GM letters and save the result
    
-   1.3. Download the Bookkeeper General Batavia (BKB) dataset at https://resources.huygens.knaw.nl/bgb/search (todo: ask Marieke how exactly did we get the spreadsheets from there)
+   1.3. Download the Bookkeeper General Batavia (BKB) dataset at https://resources.huygens.knaw.nl/bgb/search (todo: ask @MvanErp how exactly did we get the spreadsheets from there)
    
    1.4. (optional) Run the notebook 'BGB_initial_analyses.ipynb' to explore the dataset
    
