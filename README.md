@@ -17,6 +17,6 @@ Repo for DHBenelux 2024 submission "Smoke and mirrors: Tracking the Influence of
 3. Find the occurrences of opium and main spices (pepper, cinnamon, mace, nutmeg)  in the GM letters: run the notebook '[1] Looking for opium and spices in the letters.ipynb'
 4. Visualisation
    
-    3.1. Run the notebook '[2] Tracing commodities in GMs over time - visualising opium vs spice.ipynb' to visualise the appearances of opium and spices in the GM letters (Figure 1 in the abstract)
+    3.1. Run the notebook '[2] Tracing commodities in GMs over time - visualising opium vs spice.ipynb' to visualise the occurrences of opium and spices in the GM letters (Figure 1 in the abstract)
    
     3.2. Run the notebook 'BKB_commodity_voyages_value.ipynb' to visualise the number of times opium and spices were listed as cargo (Figure 2 in the abstract) and the average value of these products per year according to the BKB dataset (Figure 3 in the abstract)
