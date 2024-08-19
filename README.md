@@ -5,7 +5,7 @@ Repo for DHBenelux 2024 submission "Smoke and mirrors: Tracking the Influence of
 
 1. Preparing the data
    
-   1.1. Download the cleaned corpus of General Missive (GM) letters at https://github.com/CLARIAH/wp6-missieven/tree/d4a1683f62c987cb4454c8614059a0036d623fec/xml
+   1.1. Download the cleaned corpus of General Missive (GM) letters at https://github.com/CLARIAH/wp6-missieven/tree/d4a1683f62c987cb4454c8614059a0036d623fec/xml (all folders, from 01 to 14)
    
    1.2. Run the notebook '[0] Parsing the GM letters.ipynb' to parse the GM letters and save the result
    
